@@ -1,0 +1,23 @@
+body {
+    color: tomato;
+    background: #fafad2;
+}
+
+hr {
+    height: 2px;
+    border: none;
+    background: tomato;
+}
+
+ul {
+    list-style-type: square;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img {
+    display: block;
+    border: 5px solid tomato;
+}
